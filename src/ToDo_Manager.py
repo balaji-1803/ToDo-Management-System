@@ -65,3 +65,17 @@ def get_todo_details(todo_id: str) -> Dict[str, Any]:
             return todo
 
     raise TodoNotFoundError(todo_id)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
